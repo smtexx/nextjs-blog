@@ -3,7 +3,7 @@
    "scripts": {
       "dev": "next dev",
       "build": "next build",
-      "start": "next start"
+      "start": "node app.js"
    },
    "dependencies": {
       "classnames": "^2.3.1",
