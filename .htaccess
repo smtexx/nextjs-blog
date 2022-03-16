@@ -1,4 +1,4 @@
 PassengerNodejs /home/s/smtexxrl/.local/bin/node
-PassengerAppRoot /home/s/smtexxrl/smtexxrl.beget.tech/nextjs-blog
+PassengerAppRoot /home/s/smtexxrl/smtexxrl.beget.tech/frontend
 PassengerAppType node
-PassengerStartupFile app.js
+PassengerStartupFile server.js
